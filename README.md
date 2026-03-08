@@ -69,7 +69,8 @@ I enjoy building clean architectures, reusable UI systems, and production-ready 
 <img src="https://skillicons.dev/icons?i=npm" alt="NPM" />
 <img src="https://skillicons.dev/icons?i=yarn" alt="Yarn" />
 </p>
----
+
+<img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="e" style="max-width: 100%;">
 
 ## 📊 GitHub Stats
 
