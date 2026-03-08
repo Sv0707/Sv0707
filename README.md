@@ -89,4 +89,4 @@ I enjoy building clean architectures, reusable UI systems, and production-ready 
 
 ---
 
-⭐ Always open to interesting frontend challenges and collaboration.
+⭐ Open to interesting frontend challenges and collaboration.
