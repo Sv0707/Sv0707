@@ -72,14 +72,6 @@ I enjoy building clean architectures, reusable UI systems, and production-ready 
 
 <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="e" style="max-width: 100%;">
 
-## 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=Sv0707&theme=default&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Sv0707&theme=default&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sv0707&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
----
-
 ## 🌍 Connect With Me
 
 - 💼 LinkedIn  
